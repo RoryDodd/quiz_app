@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the primary programming language used for Android app development?",
+    "options": ["Java", "Python", "Swift", "C++"],
+    "correctAnswer": "Java"
+  },
+  {
+    "question": "Which Android component is responsible for managing the user interface and handling user interactions?",
+    "options": ["Service", "Activity", "BroadcastReceiver", "ContentProvider"],
+    "correctAnswer": "Activity"
+  },
+  {
+    "question": "Which XML-based language is used to define the user interface layout for Android applications?",
+    "options": ["HTML", "XML", "CSS", "JSON"],
+    "correctAnswer": "XML"
+  },
+  {
+    "question": "In Android, what is the purpose of the AndroidManifest.xml file?",
+    "options": ["Storing application data", "Defining app permissions and components", "Creating user interfaces", "Managing databases"],
+    "correctAnswer": "Defining app permissions and components"
+  },
+  {
+    "question": "Which tool is commonly used to build, test, and package Android applications?",
+    "options": ["Android IDE", "Android SDK", "Android Studio", "Android Debugger"],
+    "correctAnswer": "Android Studio"
+  },
+  {
+    "question": "Which Android component is used for background processing tasks without a user interface?",
+    "options": ["Activity", "Fragment", "Service", "Intent"],
+    "correctAnswer": "Service"
+  },
+  {
+    "question": "What is the purpose of an Intent in Android?",
+    "options": ["Defining UI layout", "Managing application permissions", "Passing data and triggering actions between components", "Handling database operations"],
+    "correctAnswer": "Passing data and triggering actions between components"
+  },
+  {
+    "question": "What does the term 'APK' stand for in the context of Android app development?",
+    "options": ["Android Program Kit", "Application Package", "Android Platform Kernel", "Application Programming Language"],
+    "correctAnswer": "Application Package"
+  },
+  {
+    "question": "Which programming language can be used alongside Java for Android app development as an officially supported language?",
+    "options": ["C#", "Kotlin", "Ruby", "PHP"],
+    "correctAnswer": "Kotlin"
+  },
+  {
+    "question": "What is the purpose of the 'gradle.build' file in an Android project?",
+    "options": ["Managing application resources", "Defining app permissions", "Configuring project build settings and dependencies", "Defining user interface layouts"],
+    "correctAnswer": "Configuring project build settings and dependencies"
+  }
+]
